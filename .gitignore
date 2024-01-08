@@ -19,20 +19,40 @@
 *.tar.gz
 *.rar
 
+# Eclipse
+.classpath
+/.classpath
+.project
+.settings/
+/.settings
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
+/target
+
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
 
+/.project
 .metadata
 bin/
+/bin
 tmp/
 *.tmp
 *.bak
 *.swp
 *~.nib
 local.properties
-.settings/
-.settings
 .loadpath
 .recommenders
 
@@ -80,7 +100,3 @@ local.properties
 .cache-main
 .scala_dependencies
 .worksheet
-
-# Uncomment this line if you wish to ignore the project description file.
-# Typically, this file would be tracked if it contains build/dependency configurations:
-#.project
