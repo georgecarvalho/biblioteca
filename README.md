@@ -1,8 +1,8 @@
 # Sistema de biblioteca
 
 Sistema de biblioteca desenvolvido em Java, para exemplificar o uso de testes unitários em JUnit 5.
-Seu objetivo é simular o empréstimo e devolução de livros por usuários. Cada regra de negócio foi testa utilizando seus respectivos testes unitários.
-Projeto desenvolvido durante a disciplina de Engenharia de Software II, do curso de Sistemas de Informação - IFMA, no ano de 2021.
+Seu objetivo é simular o empréstimo e devolução de livros por usuários. Cada regra de negócio foi testada utilizando seus respectivos testes unitários.
+Projeto desenvolvido durante a disciplina de Engenharia de Software II, do curso de Sistemas de Informação - IFMA, em 2021.
 
 ### 🔩 Testes unitários
 
@@ -24,16 +24,14 @@ Testa uma devolução após 30 dias da data prevista
 
 ## 🛠️ Construído com
 
-Mencione as ferramentas que você usou para criar seu projeto
-
 * [Maven](https://maven.apache.org/) - Gerente de Dependência
 * [Lombok Project](https://projectlombok.org/) - Biblioteca para geração de Getters, Setters, Builders, etc
 
 ## ✒️ Autores
 
-* **George Sanders** - *Trabalho Inicial* - [georgecarvalho](https://github.com/georgecarvalho)
+* **George Sanders** - [georgecarvalho](https://github.com/georgecarvalho)
 
 ## 📄 Licença
 
-Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE.md](https://github.com/georgecarvalho/biblioteca/blob/main/LICENSE) para detalhes.
+Este projeto está sob a licença - veja o arquivo [LICENSE.md](https://github.com/georgecarvalho/biblioteca/blob/main/LICENSE) para detalhes.
 ⌨️ com ❤️ por [Armstrong Lohãns](https://gist.github.com/lohhans) 😊
