@@ -1,6 +1,6 @@
 # Sistema de biblioteca
 
-Sistema de biblioteca desenvolvido em Java, para exemplificar o uso de testes unitários em Junit 5.
+Sistema de biblioteca desenvolvido em Java, para exemplificar o uso de testes unitários em JUnit 5.
 Seu objetivo é simular o empréstimo e devolução de livros por usuários. Cada regra de negócio foi testa utilizando seus respectivos testes unitários.
 Projeto desenvolvido durante a disciplina de Engenharia de Software II, do curso de Sistemas de Informação - IFMA, no ano de 2021.
 
