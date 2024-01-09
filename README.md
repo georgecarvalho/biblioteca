@@ -34,4 +34,3 @@ Testa uma devolução após 30 dias da data prevista
 ## 📄 Licença
 
 Este projeto está sob a licença - veja o arquivo [LICENSE.md](https://github.com/georgecarvalho/biblioteca/blob/main/LICENSE) para detalhes.
-⌨️ com ❤️ por [Armstrong Lohãns](https://gist.github.com/lohhans) 😊
