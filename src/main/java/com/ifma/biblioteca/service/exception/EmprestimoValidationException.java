@@ -1,4 +1,4 @@
-package main.java.service.exceptions;
+package com.ifma.biblioteca.service.exception;
 
 public class EmprestimoValidationException extends RuntimeException{
 	/**

@@ -1,4 +1,4 @@
-package main.java.model;
+package com.ifma.biblioteca.model;
 
 import java.util.ArrayList;
 import java.util.List;

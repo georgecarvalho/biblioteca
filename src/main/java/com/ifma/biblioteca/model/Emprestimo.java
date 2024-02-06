@@ -1,4 +1,4 @@
-package main.java.model;
+package com.ifma.biblioteca.model;
 
 import java.math.BigDecimal;
 import java.time.LocalDate;

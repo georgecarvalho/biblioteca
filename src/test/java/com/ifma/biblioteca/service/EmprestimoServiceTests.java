@@ -1,4 +1,4 @@
-package test.java.service;
+package com.ifma.biblioteca.service;
 
 import static org.junit.jupiter.api.Assertions.assertAll;
 import static org.junit.jupiter.api.Assertions.assertEquals;
@@ -12,14 +12,11 @@ import java.util.List;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
-import main.java.model.Emprestimo;
-import main.java.model.Livro;
-import main.java.model.Usuario;
-import main.java.service.EmprestimoService;
-import main.java.service.LivroService;
-import main.java.service.UsuarioService;
-import main.java.service.exceptions.EmprestimoValidationException;
-import main.java.service.exceptions.LivroValidationException;
+import com.ifma.biblioteca.model.Emprestimo;
+import com.ifma.biblioteca.model.Livro;
+import com.ifma.biblioteca.model.Usuario;
+import com.ifma.biblioteca.service.exception.EmprestimoValidationException;
+import com.ifma.biblioteca.service.exception.LivroValidationException;
 
 public class EmprestimoServiceTests {
 	private final BigDecimal VALOR_FIXO_ALUGUEL = new BigDecimal("5.00");

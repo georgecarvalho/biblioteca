@@ -1,14 +1,14 @@
-package main.java.service;
+package com.ifma.biblioteca.service;
 
 import java.util.List;
 import java.util.Objects;
 import java.util.Optional;
 import java.util.stream.Collectors;
 
-import main.java.model.Emprestimo;
-import main.java.model.Livro;
-import main.java.model.Usuario;
-import main.java.service.exceptions.ObjectNotFoundException;
+import com.ifma.biblioteca.model.Emprestimo;
+import com.ifma.biblioteca.model.Livro;
+import com.ifma.biblioteca.model.Usuario;
+import com.ifma.biblioteca.service.exception.ObjectNotFoundException;
 
 public class UsuarioService {
 

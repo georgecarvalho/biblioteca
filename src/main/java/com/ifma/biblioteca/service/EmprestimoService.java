@@ -1,17 +1,16 @@
-package main.java.service;
+package com.ifma.biblioteca.service;
 
 import java.math.BigDecimal;
 import java.time.LocalDate;
 import java.time.temporal.ChronoUnit;
 import java.util.List;
 
-import main.java.model.Emprestimo;
-import main.java.model.Livro;
-import main.java.model.Usuario;
-
-import main.java.service.exceptions.EmprestimoValidationException;
-import main.java.service.exceptions.LivroValidationException;
-import main.java.service.exceptions.ObjectNotFoundException;
+import com.ifma.biblioteca.model.Emprestimo;
+import com.ifma.biblioteca.model.Livro;
+import com.ifma.biblioteca.model.Usuario;
+import com.ifma.biblioteca.service.exception.EmprestimoValidationException;
+import com.ifma.biblioteca.service.exception.LivroValidationException;
+import com.ifma.biblioteca.service.exception.ObjectNotFoundException;
 
 public class EmprestimoService {
 	private final int QTD_DIAS_PARA_DATA_PREVISTA = 7;
